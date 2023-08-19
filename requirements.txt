@@ -1,0 +1,8 @@
+langchain==0.0.233
+openai==0.27.8
+pandas==2.0.2
+PyYAML==6.0
+tiktoken==0.4.0
+scikit-learn==1.2.2
+transformers==4.30.2
+datasets==2.13.1
