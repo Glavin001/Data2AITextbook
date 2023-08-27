@@ -28,6 +28,8 @@ Given an input text, such as a chat message, blog post, article, speech/video (t
   - [ ] Orchestration of planning
   - [ ] Communication styles (e.g. personality, word choice, etc)
 
-## Models
+## Datasets & Models
 
-Coming soon.
+Check out my Huggingface profile for a list of datasets & models I've created: https://huggingface.co/Glavin001
+
+Many will be created for the [Expertise by AI](https://github.com/Glavin001/Expertise-by-AI) project, where you can learn how to train custom models with your own data.
