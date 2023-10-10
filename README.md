@@ -169,3 +169,8 @@ graph LR
     Chapter6-->|"✅ Pass Tests"|Chapter7
     Chapter7-->|"✅ Pass Tests"|Model
 ```
+## Datasets & Models
+
+Check out my Huggingface profile for a list of datasets & models I've created: https://huggingface.co/Glavin001
+
+Many will be created for the [Expertise by AI](https://github.com/Glavin001/Expertise-by-AI) project, where you can learn how to train custom models with your own data.
