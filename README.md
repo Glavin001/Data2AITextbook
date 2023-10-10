@@ -55,7 +55,7 @@ The combination of each can be treated different to maximize the output generate
 
 #### Exercises
 
-For each knowledge type and cognitive process to be taught there are multiple exercises to consider generating.
+For each knowledge type and cognitive process to be taught there are multiple lessons and exercises to consider generating.
 Each of these exercises should have an optimzed prompting pipeline to generate which leverages powerful techniques, such as Chain-of-Thought or Graph of Thoughts and Self-Consistency, etc.
 
 The following is work-in-progress:
